@@ -1,7 +1,7 @@
 # Dance School Management — SOLID Principles
 
 **Course:** Software Design Techniques and Mechanisms (TMPS) · **Laboratory work no. 1**
-**Author:** _Name Surname, group_ · **Technology:** C# / .NET 10 (console application)
+**Author:** Florea David, FAF-242 · **Technology:** C# / .NET 10 (console application)
 
 ---
 
